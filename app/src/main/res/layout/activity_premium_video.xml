@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/blankpage"
+    tools:context=".PremiumVideoActivity">
+
+    <RadioGroup
+        android:id="@+id/toggle"
+        android:layout_width="@dimen/_220sdp"
+        android:layout_height="@dimen/_20sdp"
+        android:background="@drawable/white_outline_toggle_homescreen"
+        android:checkedButton="@+id/offer"
+        android:orientation="horizontal"
+        android:layout_marginTop="@dimen/_5sdp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageview8">
+
+
+        <RadioButton
+            android:id="@+id/lobby"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="1dp"
+            android:layout_marginTop="1dp"
+            android:layout_marginBottom="1dp"
+            android:layout_weight="1"
+            android:button="@null"
+            android:gravity="center"
+            android:textSize="@dimen/_12sdp"
+            android:text="YouTube"
+            android:textColor="@color/pinkpurple"
+            android:textAlignment="center"
+            />
+
+        <RadioButton
+            android:id="@+id/premium"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="1dp"
+            android:layout_marginRight="1dp"
+            android:layout_marginBottom="1dp"
+            android:layout_weight="1"
+            android:button="@null"
+            android:gravity="center"
+            android:text="Premium"
+            android:textSize="@dimen/_12sdp"
+            android:textColor="@color/white"
+            android:background="@drawable/toggle_widget_background"
+            />
+    </RadioGroup>
+
+
+
+    <ImageView
+        android:id="@+id/imageview8"
+        android:layout_width="@dimen/_35sdp"
+        android:layout_height="@dimen/_35sdp"
+        android:layout_marginTop="2dp"
+        android:background="@drawable/logo_small"
+        android:layout_marginRight="2dp"
+        app:layout_constraintEnd_toStartOf="@+id/txtAppName"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+    </ImageView>
+
+    <TextView
+        android:id="@+id/txtAppName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:fontFamily="@font/oswald_bold"
+        android:text="@string/app_name"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_18sdp"
+        android:textStyle="bold"
+        app:layout_constraintHorizontal_bias="0.58"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+    </TextView>
+
+    <ImageView
+        android:id="@+id/imgSetting"
+        app:layout_constraintTop_toTopOf="@+id/txtAppName"
+        app:layout_constraintBottom_toBottomOf="@+id/txtAppName"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginStart="@dimen/_15sdp"
+        android:background="@drawable/ic_baseline_settings_24"
+        android:foreground="?actionBarItemBackground"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="@dimen/_8sdp">
+
+    </ImageView>
+
+    <ImageView
+        android:id="@+id/imgAdd"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginRight="@dimen/_15sdp"
+        android:background="@drawable/ic_baseline_people_alt_24"
+        android:foreground="?actionBarItemBackground"
+        app:layout_constraintBottom_toBottomOf="@+id/txtAppName"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/txtAppName"
+        android:layout_marginTop="@dimen/_8sdp">
+
+    </ImageView>
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rcLIst"
+        android:layout_width="match_parent"
+        android:layout_height="0sp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:background="@android:color/transparent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/toggle" />
+
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fb_open_video_cat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="@dimen/_25sdp"
+        android:layout_marginBottom="@dimen/_25sdp"
+        android:src="@drawable/ic_baseline_add_24"
+        android:visibility="gone"
+        app:backgroundTint="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent">
+
+    </com.google.android.material.floatingactionbutton.FloatingActionButton>
+
+
+
+    <ProgressBar
+        android:id="@+id/progress_circular"
+        android:visibility="gone"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    </ProgressBar>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

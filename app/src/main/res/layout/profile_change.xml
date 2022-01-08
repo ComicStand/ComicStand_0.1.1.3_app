@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/blankpage"
+    android:layout_height="match_parent">
+
+
+    <ImageView
+        android:id="@+id/imgLogo"
+        android:layout_width="@dimen/_35sdp"
+        android:layout_height="@dimen/_35sdp"
+        android:layout_marginTop="12dp"
+        android:layout_marginRight="2dp"
+        android:background="@drawable/logo_small"
+        app:layout_constraintEnd_toStartOf="@+id/txtAppName"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+    </ImageView>
+
+    <TextView
+        android:id="@+id/txtAppName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:fontFamily="@font/oswald_bold"
+        android:text="@string/app_name"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_18sdp"
+        android:textStyle="bold"
+        app:layout_constraintHorizontal_bias="0.58"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+    </TextView>
+
+    <ImageView
+        android:id="@+id/imgConnectAcount"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_25sdp"
+        android:layout_marginTop="@dimen/_15sdp"
+        android:background="#39000000"
+        app:layout_constraintTop_toBottomOf="@id/imgLogo"
+        tools:layout_editor_absoluteX="0dp">
+
+    </ImageView>
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/imgProfile"
+        android:layout_width="@dimen/_150sdp"
+        android:layout_height="@dimen/_150sdp"
+        android:background="@drawable/avtar6"
+        android:foreground="?actionBarItemBackground"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/change_photo"
+        app:layout_constraintVertical_bias="0.08">
+
+    </de.hdodenhof.circleimageview.CircleImageView>
+
+    <ProgressBar
+        android:id="@+id/progress_circular"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@id/imgProfile"
+        app:layout_constraintLeft_toLeftOf="@id/imgProfile"
+        app:layout_constraintRight_toRightOf="@id/imgProfile"
+        app:layout_constraintTop_toTopOf="@id/imgProfile">
+
+    </ProgressBar>
+
+    <TextView
+        android:id="@+id/change_photo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Set Profile Photo"
+        android:textColor="#FFFFFF"
+        android:textSize="@dimen/_15sdp"
+        android:foreground="?android:selectableItemBackground"
+        app:layout_constraintBottom_toBottomOf="@+id/imgConnectAcount"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/imgConnectAcount"
+        app:layout_constraintTop_toBottomOf="@+id/imgLogo">
+
+    </TextView>
+
+    <Button
+        android:id="@+id/btNext"
+        android:layout_width="120dp"
+        android:layout_height="30dp"
+        android:background="@drawable/white_outline_toggle_homescreen"
+        android:foreground="?actionBarItemBackground"
+        android:text="Next"
+        android:visibility="invisible"
+        android:textColor="@color/darkpurple"
+        android:textSize="@dimen/_12sdp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.85"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btChoose"
+        app:layout_constraintVertical_bias="0.85">
+
+    </Button>
+
+    <Button
+        android:id="@+id/btChoose"
+        android:layout_width="200dp"
+        android:layout_height="30dp"
+        android:background="@drawable/white_outline_toggle_homescreen"
+        android:foreground="?actionBarItemBackground"
+        android:text="Choose Photo"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:textColor="@color/darkpurple"
+        android:textSize="@dimen/_12sdp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imgProfile">
+
+    </Button>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

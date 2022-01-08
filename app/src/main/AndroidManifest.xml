@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.s.video.musicas.scooby">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+   <!-- <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />-->
+    <!--<uses-permission android:name="android.permission.READ_CONTACTS" />-->
+    <!--<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />-->
+   <!-- <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />-->
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <!--<uses-permission android:name="android.permission.READ_PHONE_STATE" />-->
+
+
+
+
+    <uses-feature
+        android:name="android.hardware.microphone"
+        android:hardwareAccelerated="true"
+        android:required="false" />
+
+    <application
+        android:name="com.s.video.musicas.scooby.utils.Application"
+        android:allowBackup="true"
+        android:fullBackupContent="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Scooby"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity android:name="com.s.video.musicas.scooby.MpaRouteActivity">
+
+
+        </activity>
+        <activity android:name="com.s.video.musicas.scooby.InviteFriendsActivity" />
+        <activity
+            android:name="com.s.video.musicas.scooby.Map.MapActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.s.video.musicas.scooby.ProfileChange"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.s.video.musicas.scooby.OpenSettingActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.s.video.musicas.scooby.LiveChatRoomLIstActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.s.video.musicas.scooby.ContactActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.s.video.musicas.scooby.RazorpayActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.s.video.musicas.scooby.PriumumVideoPlayerActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|screenLayout|smallestScreenSize|uiMode"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.s.video.musicas.scooby.PremiumVideoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.s.video.musicas.scooby.ChooseVideoCatActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.s.video.musicas.scooby.auth.AuthActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.s.video.musicas.scooby.PlayVieoActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.s.video.musicas.scooby.DashboardActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name="com.s.video.musicas.scooby.NextVideoYouTube"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name="com.s.video.musicas.scooby.SplashActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+
+
+        <activity
+            android:name="com.s.video.musicas.scooby.MainActivity"
+            android:screenOrientation="portrait" />
+
+        <meta-data
+            android:name="com.razorpay.ApiKey"
+            android:value="rzp_live_fSFlr9zzBfmKyP" />
+
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/map_api" />
+
+
+        <service
+            android:name=".firebase.FirebaseNotification"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_channel_id"
+            android:value="@string/default_notification_channel_id" />
+
+    </application>
+
+    <queries>    <!-- List of apps which you want to support for Intent pay -->
+        <package android:name="com.google.android.apps.nbu.paisa.user" />
+        <package android:name="com.phonepe.app"/>
+        <!--         Specific intents you query for,         eg: for a custom share UI    -->
+        <intent>
+            <action android:name="android.intent.action.SEND" />
+        </intent>
+    </queries>
+
+</manifest>

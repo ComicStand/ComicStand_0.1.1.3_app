@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "29473852900",
+    "project_id": "scooby-5542b",
+    "storage_bucket": "scooby-5542b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29473852900:android:34047a91227a732fe84bf1",
+        "android_client_info": {
+          "package_name": "com.s.video.musicas.scooby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29473852900-46k7o3ki317f2hp3ueg7i27pf0a4d964.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.s.video.musicas.scooby",
+            "certificate_hash": "616d09b99e154366e0ac99d8b9ad3602827d1b3b"
+          }
+        },
+        {
+          "client_id": "29473852900-9dgtoth22elcvig134ofecoajkjqqas3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM9trN0Zn0m-baALvjzQ46oBOjI-9naY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29473852900-9dgtoth22elcvig134ofecoajkjqqas3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

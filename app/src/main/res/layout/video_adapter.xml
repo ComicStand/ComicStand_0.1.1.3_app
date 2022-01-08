@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/constLayoutTwo"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="wrap_content">
+
+
+
+    <androidx.cardview.widget.CardView
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginVertical="@dimen/_8sdp"
+        android:layout_marginLeft="@dimen/_5sdp"
+        android:layout_marginRight="@dimen/_5sdp"
+        app:cardCornerRadius="@dimen/_5sdp"
+        android:layout_width="match_parent"
+        android:foreground="?actionBarItemBackground"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_height="wrap_content">
+
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:background="@drawable/darkpurple_gradient"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/imgThumblain"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintLeft_toLeftOf="parent"
+                android:alpha="1"
+                android:scaleType="center"
+                android:layout_width="@dimen/_160sdp"
+                android:background="@drawable/premium_img"
+                android:layout_height="@dimen/_90sdp">
+
+
+            </ImageView>
+
+            <TextView
+                android:id="@+id/txtTitle"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintLeft_toRightOf="@id/imgThumblain"
+                android:textColor="@color/white"
+                android:maxLines="1"
+                android:shadowRadius="2"
+                android:shadowDx="3"
+                android:shadowDy="3"
+                android:shadowColor="@color/black"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:layout_width="0sp"
+                app:layout_constraintRight_toRightOf="parent"
+                android:text="Best songs of this year"
+                android:textSize="@dimen/_14sdp"
+                android:layout_marginLeft="@dimen/_5sdp"
+                android:layout_height="wrap_content">
+
+            </TextView>
+
+
+            <TextView
+                android:id="@+id/txtDiscription"
+                app:layout_constraintTop_toBottomOf="@+id/txtTitle"
+                app:layout_constraintLeft_toRightOf="@id/imgThumblain"
+                android:textColor="@color/white"
+                android:layout_marginTop="@dimen/_3sdp"
+                android:layout_width="0sp"
+                android:alpha="0.8"
+                android:text="Best songs of this year Best songs of this year Best songs of this yearBest songs of this yearBest songs of this yearBest songs of this yearBest songs of this yearBest songs of this yearBest songs of this yearBest songs of this yearBest songs of this yearBest songs of this year Best songs of this year "
+                android:textSize="@dimen/_10sdp"
+                android:layout_marginRight="@dimen/_10sdp"
+                app:layout_constraintRight_toRightOf="parent"
+                android:maxLines="2"
+                android:layout_marginLeft="@dimen/_5sdp"
+                android:layout_height="wrap_content">
+
+            </TextView>
+
+
+
+           <!-- <TextView
+                android:id="@+id/txtAmount"
+                app:layout_constraintTop_toBottomOf="@id/txtDiscription"
+                android:layout_marginTop="@dimen/_5sdp"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintBottom_toBottomOf="parent"
+                android:layout_marginRight="@dimen/_20sdp"
+                android:textStyle="bold"
+                android:textSize="@dimen/_12sdp"
+                android:text="bdvycfd"
+                android:textColor="@color/black"
+                android:layout_marginBottom="@dimen/_10sdp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+            </TextView>-->
+
+
+            <Button
+                android:id="@+id/txtAmount"
+                android:layout_width="@dimen/_60sdp"
+                android:layout_height="@dimen/_20sdp"
+                android:background="@drawable/round_colour1"
+                android:layout_marginLeft="@dimen/_5sdp"
+                android:layout_marginBottom="@dimen/_8sdp"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_14sdp"
+                android:textAlignment="textStart"
+                android:shadowRadius="1"
+                android:shadowDx="2"
+                android:shadowDy="2"
+                android:shadowColor="@color/black"
+                app:layout_constraintBottom_toBottomOf="@id/imgThumblain"
+                app:layout_constraintLeft_toRightOf="@id/imgThumblain">
+
+            </Button>
+
+            <Button
+                android:id="@+id/txtSubScribe"
+                android:background="@drawable/round_color"
+                android:layout_marginBottom="@dimen/_8sdp"
+                android:layout_marginRight="@dimen/_5sdp"
+                app:layout_constraintBottom_toBottomOf="@id/imgThumblain"
+                app:layout_constraintRight_toRightOf="parent"
+                android:layout_width="@dimen/_35sdp"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_12sdp"
+                android:textAllCaps="false"
+                android:layout_height="@dimen/_18sdp">
+
+            </Button>
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

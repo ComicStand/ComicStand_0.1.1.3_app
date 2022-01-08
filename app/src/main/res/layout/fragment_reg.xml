@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/blankpage"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".auth.fragment.RegFragment">
+
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+
+            <ImageView
+                android:id="@+id/imgLogo"
+                android:layout_width="@dimen/_50sdp"
+                android:layout_height="@dimen/_50sdp"
+                android:layout_marginTop="@dimen/_30sdp"
+                android:layout_marginRight="@dimen/_3sdp"
+                android:background="@drawable/logo_small"
+                app:layout_constraintEnd_toStartOf="@+id/txtAppName"
+                app:layout_constraintHorizontal_bias="1"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+            </ImageView>
+
+            <TextView
+                android:id="@+id/txtAppName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_33sdp"
+                android:fontFamily="@font/oswald_bold"
+                android:text="@string/app_name"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_25sdp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.6"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+            </TextView>
+
+
+            <RadioGroup
+                android:id="@+id/toggle"
+                android:layout_width="@dimen/_220sdp"
+                android:layout_height="@dimen/_30sdp"
+                android:background="@drawable/white_outline_toggle_homescreen"
+                android:checkedButton="@+id/offer"
+                android:orientation="horizontal"
+                android:layout_marginTop="@dimen/_50sdp"
+                app:layout_constraintTop_toBottomOf="@+id/imgLogo"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent">
+
+
+
+                <RadioButton
+                    android:id="@+id/btnlogin"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="1dp"
+                    android:layout_marginTop="1dp"
+                    android:layout_marginBottom="1dp"
+                    android:layout_weight="1"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:text="LOGIN"
+                    android:textAlignment="center"
+                    android:textColor="@color/darkpurple"
+                    android:textSize="@dimen/_13sdp" />
+
+                <RadioButton
+                    android:id="@+id/SignUpHere"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="1dp"
+                    android:layout_marginRight="1dp"
+                    android:layout_marginBottom="1dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/toggle_widget_background"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:text="SIGNUP"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/_13sdp" />
+            </RadioGroup>
+
+
+            <EditText
+                android:id="@+id/edName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/_30sdp"
+                android:layout_marginTop="@dimen/_30sdp"
+                android:layout_marginRight="@dimen/_30sdp"
+                android:paddingLeft="@dimen/_10sdp"
+                android:hint="Name"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
+                app:backgroundTint="@color/white"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/toggle">
+
+            </EditText>
+
+            <EditText
+                android:id="@+id/edEmailID"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/_30sdp"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:layout_marginRight="@dimen/_30sdp"
+                android:paddingLeft="@dimen/_10sdp"
+                android:hint="Email"
+                android:visibility="gone"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
+                app:backgroundTint="@color/white"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/edName">
+
+            </EditText>
+
+
+            <EditText
+                android:id="@+id/edMobileNumber"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/_30sdp"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:layout_marginRight="@dimen/_30sdp"
+                android:paddingLeft="@dimen/_10sdp"
+                android:hint="Mobile"
+                android:inputType="number"
+                android:maxLength="10"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
+                app:backgroundTint="@color/white"
+                app:layout_constraintTop_toBottomOf="@+id/edEmailID">
+
+            </EditText>
+
+
+            <EditText
+                android:id="@+id/edPassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/_30sdp"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:layout_marginRight="@dimen/_30sdp"
+                android:hint="Create Password"
+                android:inputType="text"
+                android:paddingLeft="@dimen/_10sdp"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
+                app:backgroundTint="@color/white"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/edMobileNumber">
+
+            </EditText>
+
+
+            <EditText
+                android:id="@+id/edPicUpload"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/_30sdp"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:layout_marginRight="@dimen/_30sdp"
+                android:focusable="false"
+                android:hint="Select Image"
+                android:inputType="textPassword"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
+                android:visibility="gone"
+                app:backgroundTint="@color/white"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/edPassword">
+
+            </EditText>
+
+
+            <ImageView
+                android:id="@+id/imgUploded"
+                android:layout_width="@dimen/_25sdp"
+                android:layout_height="@dimen/_25sdp"
+                android:layout_marginRight="@dimen/_20sdp"
+                android:background="@drawable/greeen_tick"
+                android:visibility="gone"
+                app:layout_constraintBottom_toBottomOf="@+id/edPicUpload"
+                app:layout_constraintRight_toRightOf="@+id/edPicUpload"
+                app:layout_constraintTop_toTopOf="@+id/edPicUpload">
+
+            </ImageView>
+
+
+            <Button
+                android:id="@+id/btregister"
+                android:layout_width="150dp"
+                android:layout_height="30dp"
+                android:layout_marginTop="40dp"
+                android:layout_marginEnd="60dp"
+                android:layout_marginRight="@dimen/_30sdp"
+                android:layout_marginBottom="@dimen/_20sdp"
+                android:background="@drawable/white_outline_toggle_homescreen"
+                android:text="Create Profile"
+                android:textAllCaps="false"
+                android:foreground="?actionBarItemBackground"
+                android:textSize="@dimen/_12sdp"
+                android:textColor="@color/darkpurple"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/edPicUpload">
+
+            </Button>
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+
+    <ProgressBar
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:id="@+id/progress_circular"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    </ProgressBar>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

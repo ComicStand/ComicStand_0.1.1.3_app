@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".fragment.ContactListFragment">
+
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/cont"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_width="match_parent"
+        android:background="#57FFFFFF"
+        android:layout_height="@dimen/_35sdp">
+
+        <EditText
+            android:id="@+id/edSearch"
+            android:hint="@string/search_all_contact_name_for_scooby"
+            app:layout_constraintTop_toTopOf="parent"
+            android:layout_width="0sp"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            android:layout_marginRight="@dimen/_10sdp"
+            android:layout_marginLeft="@dimen/_10sdp"
+            android:textColorHint="#b2aaac"
+            android:textColor="#ffffff"
+            android:inputType="text"
+            android:maxLines="1"
+            android:drawablePadding="@dimen/_10sdp"
+            android:drawableLeft="@drawable/ic_baseline_search_24"
+            android:background="@null"
+            android:imeOptions="actionSearch"
+            android:layout_height="match_parent">
+
+        </EditText>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvContact"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cont"
+        android:layout_width="match_parent"
+        android:layout_height="0sp"
+ />
+
+
+    <ProgressBar
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:id="@+id/progress_circular"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    </ProgressBar>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

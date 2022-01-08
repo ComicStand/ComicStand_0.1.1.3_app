@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <ImageView
+                android:id="@+id/imgAdd"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:layout_marginEnd="@dimen/_10sdp"
+                android:background="@drawable/add"
+                android:layout_width="45dp"
+                android:layout_height="45dp">
+
+            </ImageView>
+
+
+            <TextView
+                android:id="@+id/txtName"
+                android:layout_width="0sp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/_5sdp"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:textSize="@dimen/_13sdp"
+                android:textColor="@color/white"
+                android:layout_marginRight="@dimen/_10sdp"
+                app:layout_constraintLeft_toRightOf="@+id/imgAvtar"
+                app:layout_constraintRight_toLeftOf="@+id/imgAdd"
+                app:layout_constraintTop_toTopOf="@+id/imgAvtar">
+
+            </TextView>
+
+
+            <TextView
+                android:id="@+id/txtNumber"
+                android:layout_width="0sp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/_5sdp"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:textSize="@dimen/_11sdp"
+                android:textColor="@color/white"
+                android:layout_marginRight="@dimen/_10sdp"
+                app:layout_constraintLeft_toRightOf="@+id/imgAvtar"
+                app:layout_constraintRight_toLeftOf="@+id/imgAdd"
+                app:layout_constraintTop_toBottomOf="@+id/txtName">
+
+            </TextView>
+
+
+
+            <ImageView
+                android:id="@+id/imgAvtar"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintLeft_toLeftOf="parent"
+                android:background="@drawable/avtar"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:layout_marginLeft="@dimen/_10sdp"
+                android:layout_marginBottom="@dimen/_10sdp"
+                android:layout_width="@dimen/_50sdp"
+                android:layout_height="@dimen/_50sdp">
+
+
+            </ImageView>
+            
+            <View
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintLeft_toRightOf="@id/imgAvtar"
+                app:layout_constraintRight_toRightOf="@id/imgAdd"
+                android:background="@color/white"
+                android:layout_width="0sp"
+                android:layout_height="1sp">
+
+            </View>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

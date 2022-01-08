@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/defaultuser0/Documents/Projects/Android Projects/Goalsoftnet/Scooby Project/scooby/app/src/main/res/drawable/checkbox_selector.xml" value="0.20512820512820512" />
+        <entry key="..\:/Users/defaultuser0/Documents/Projects/Android Projects/Goalsoftnet/Scooby Project/scooby/app/src/main/res/drawable/coror_redious.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/defaultuser0/Documents/Projects/Android Projects/Goalsoftnet/Scooby Project/scooby/app/src/main/res/drawable/ic_checkbox_checked.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/defaultuser0/Documents/Projects/Android Projects/Goalsoftnet/Scooby Project/scooby/app/src/main/res/drawable/rec_shap.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/defaultuser0/Documents/Projects/Android Projects/Goalsoftnet/Scooby Project/scooby/app/src/main/res/layout/activity_auth.xml" value="0.17962962962962964" />
+        <entry key="..\:/Users/defaultuser0/Documents/Projects/Android Projects/Goalsoftnet/Scooby Project/scooby/app/src/main/res/layout/activity_choose_video_cat.xml" value="0.1921875" />
+        <entry key="..\:/Users/defaultuser0/Documents/Projects/Android Projects/Goalsoftnet/Scooby Project/scooby/app/src/main/res/layout/activity_dashboard.xml" value="0.1921875" />
+        <entry key="..\:/Users/defaultuser0/Documents/Projects/Android Projects/Goalsoftnet/Scooby Project/scooby/app/src/main/res/layout/activity_invite_friends.xml" value="0.18923076923076923" />
+        <entry key="..\:/Users/defaultuser0/Documents/Projects/Android Projects/Goalsoftnet/Scooby Project/scooby/app/src/main/res/layout/activity_live_chat_room_l_ist.xml" value="0.18923076923076923" />
+        <entry key="..\:/Users/defaultuser0/Documents/Projects/Android Projects/Goalsoftnet/Scooby Project/scooby/app/src/main/res/layout/activity_play_vieo.xml" value="0.1921875" />
+        <entry key="..\:/Users/defaultuser0/Documents/Projects/Android Projects/Goalsoftnet/Scooby Project/scooby/app/src/main/res/layout/activity_premium_video.xml" value="0.1921875" />
+        <entry key="..\:/Users/defaultuser0/Documents/Projects/Android Projects/Goalsoftnet/Scooby Project/scooby/app/src/main/res/layout/activity_priumum_video_player.xml" value="0.18923076923076923" />
+        <entry key="..\:/Users/defaultuser0/Documents/Projects/Android Projects/Goalsoftnet/Scooby Project/scooby/app/src/main/res/layout/activity_splash.xml" value="0.18611111111111112" />
+        <entry key="..\:/Users/defaultuser0/Documents/Projects/Android Projects/Goalsoftnet/Scooby Project/scooby/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.18611111111111112" />
+        <entry key="..\:/Users/defaultuser0/Documents/Projects/Android Projects/Goalsoftnet/Scooby Project/scooby/app/src/main/res/layout/contacts_list_item.xml" value="0.15185185185185185" />
+        <entry key="..\:/Users/defaultuser0/Documents/Projects/Android Projects/Goalsoftnet/Scooby Project/scooby/app/src/main/res/layout/custom_player_ui.xml" value="0.18923076923076923" />
+        <entry key="..\:/Users/defaultuser0/Documents/Projects/Android Projects/Goalsoftnet/Scooby Project/scooby/app/src/main/res/layout/fra.xml" value="0.15185185185185185" />
+        <entry key="..\:/Users/defaultuser0/Documents/Projects/Android Projects/Goalsoftnet/Scooby Project/scooby/app/src/main/res/layout/fragment_forgot_pass.xml" value="0.1921875" />
+        <entry key="..\:/Users/defaultuser0/Documents/Projects/Android Projects/Goalsoftnet/Scooby Project/scooby/app/src/main/res/layout/fragment_invite_all_contact.xml" value="0.15185185185185185" />
+        <entry key="..\:/Users/defaultuser0/Documents/Projects/Android Projects/Goalsoftnet/Scooby Project/scooby/app/src/main/res/layout/fragment_invite_online.xml" value="0.1921875" />
+        <entry key="..\:/Users/defaultuser0/Documents/Projects/Android Projects/Goalsoftnet/Scooby Project/scooby/app/src/main/res/layout/fragment_login.xml" value="0.25" />
+        <entry key="..\:/Users/defaultuser0/Documents/Projects/Android Projects/Goalsoftnet/Scooby Project/scooby/app/src/main/res/layout/fragment_otp.xml" value="0.18611111111111112" />
+        <entry key="..\:/Users/defaultuser0/Documents/Projects/Android Projects/Goalsoftnet/Scooby Project/scooby/app/src/main/res/layout/fragment_reg.xml" value="0.1921875" />
+        <entry key="..\:/Users/defaultuser0/Documents/Projects/Android Projects/Goalsoftnet/Scooby Project/scooby/app/src/main/res/layout/fragment_you_t_ube_fragment.xml" value="0.18923076923076923" />
+        <entry key="..\:/Users/defaultuser0/Documents/Projects/Android Projects/Goalsoftnet/Scooby Project/scooby/app/src/main/res/layout/inive_online.xml" value="0.15185185185185185" />
+        <entry key="..\:/Users/defaultuser0/Documents/Projects/Android Projects/Goalsoftnet/Scooby Project/scooby/app/src/main/res/layout/invite_online_contact.xml" value="0.1921875" />
+        <entry key="..\:/Users/defaultuser0/Documents/Projects/Android Projects/Goalsoftnet/Scooby Project/scooby/app/src/main/res/layout/profile_change.xml" value="0.18923076923076923" />
+        <entry key="..\:/Users/defaultuser0/Documents/Projects/Android Projects/Goalsoftnet/Scooby Project/scooby/app/src/main/res/layout/social_conatct.xml" value="0.1921875" />
+        <entry key="..\:/Users/defaultuser0/Documents/Projects/Android Projects/Goalsoftnet/Scooby Project/scooby/app/src/main/res/layout/user_list.xml" value="0.33" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/drawable-xxhdpi/ic_baseline_settingss_24.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/drawable/background_gradient.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/drawable/chat_video_adapter_border.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/drawable/darkpurple_gradient.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/drawable/ic_baseline_arrow_back_right_24.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/drawable/ic_baseline_cancel_24.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/drawable/ic_baseline_clear_24.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/drawable/message_reciver_background.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/drawable/message_sender_background.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/drawable/messege_item_border.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/activity_auth.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/activity_choose_video_cat.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/activity_contact.xml" value="0.2" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/activity_dashboard.xml" value="0.40635641316685583" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/activity_invite_friends.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/activity_live_chat_room_l_ist.xml" value="0.5" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/activity_main.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/activity_map.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/activity_map2.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/activity_mpa_route.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/activity_open_setting.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/activity_play_vieo.xml" value="0.33" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/activity_premium_video.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/activity_priumum_video_player.xml" value="0.2" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/activity_razorpay.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/activity_splash.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/chat_sender.xml" value="0.3210227272727273" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/chat_video_adapter.xml" value="0.22" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/contacts_list_item.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/custom_player_ui.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/fra.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/fragment_contact_list.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/fragment_dash_board.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/fragment_forgot_pass.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/fragment_invite_all_contact.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/fragment_invite_online.xml" value="0.2" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/fragment_login.xml" value="0.22" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/fragment_online_conatct.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/fragment_otp.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/fragment_reg.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/fragment_search.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/fragment_video.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/fragment_you_t_ube_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/inive_online.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/invite_online_contact.xml" value="0.33" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/item.xml" value="0.2" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/item_option.xml" value="0.67" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/item_recycler_header.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/item_recycler_list.xml" value="0.67" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/layout.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/online_invte.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/profile_change.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/rating_bar.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/sample_my_view.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/setting_layout.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/social_conatct.xml" value="0.67" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/user_list.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/layout/video_adapter.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/menu/action_bar.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby-exoplayer/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/drawable/background_animation.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/drawable/background_gradient.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/drawable/background_gradient2.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/drawable/background_gradient_0_5.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/drawable/background_gradient_1.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/drawable/background_gradient_1_5.xml" value="0.2" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/drawable/background_gradient_2.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/drawable/background_gradient_2_5.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/drawable/background_gradient_3.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/drawable/background_gradient_3_5.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/drawable/background_gradient_4.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/drawable/badge_bg_circle_grey.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/drawable/chat_video_adapter_border.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/drawable/checkbox_selector.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/drawable/circle.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/drawable/circle_corner.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/drawable/corner_round.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/drawable/coror_redious.xml" value="0.1" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/drawable/darkpurple_gradient.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/drawable/ic_baseline_mic_24.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/drawable/ic_baseline_mic_off_24.xml" value="0.1" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/drawable/ic_baseline_my_location_24.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/drawable/ic_lock.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/drawable/ic_send_black_24dp.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/drawable/messege_item_border.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/drawable/messege_item_border1.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/drawable/rec_shap.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/drawable/round_color.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/drawable/round_colour1.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/drawable/shape_incoming_message.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/activity_auth.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/activity_choose_video_cat.xml" value="0.22" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/activity_contact.xml" value="0.25" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/activity_dashboard.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/activity_invite_friends.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/activity_live_chat_room_l_ist.xml" value="0.22" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/activity_map.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/activity_mpa_route.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/activity_open_setting.xml" value="0.22" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/activity_play_vieo.xml" value="0.3729166666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/activity_premium_video.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/activity_priumum_video_player.xml" value="0.21" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/activity_razorpay.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/activity_splash.xml" value="0.22" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/chat_sender.xml" value="0.33" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/chat_video_adapter.xml" value="0.33" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/contacts_list_item.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/fra.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/fragment_contact_list.xml" value="0.25" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/fragment_dash_board.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/fragment_invite_all_contact.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/fragment_invite_online.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/fragment_login.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/fragment_online_conatct.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/fragment_otp.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/fragment_reg.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/fragment_search.xml" value="0.33" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/fragment_video.xml" value="0.2" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/fragment_you_t_ube_fragment.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/inive_online.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/item.xml" value="0.25" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/item_option.xml" value="0.25" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/item_recycler_header.xml" value="0.75" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/item_recycler_list.xml" value="0.5" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/layout.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/online_invte.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/setting_layout.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/social_conatct.xml" value="0.33" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/user_list.xml" value="0.25" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/layout/video_adapter.xml" value="0.25" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable-v24/toggle_widget_background_premium.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable-xxhdpi/ic_baseline_settingss_24.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/background_gradient.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/background_gradient_2.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/chat_sender_background.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/chat_video_adapter_border.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/circle.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/click_effect.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/ic_baseline_cancel_24.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/ic_baseline_check_circle_24.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/ic_baseline_group_add_24.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/ic_baseline_hourglass_full_24.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/ic_baseline_mic_24.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/ic_baseline_mic_off_24.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/ic_baseline_my_location_24.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/ic_baseline_people_alt_24.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/ic_baseline_thumb_down_alt_24.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/ic_baseline_thumb_down_alt_24_black.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/ic_baseline_thumb_up_24.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/ic_baseline_thumb_up_24_blavk.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/ic_checkbox_checked.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/ic_checkbox_unchecked.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/ic_friends.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/ic_globe.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/ic_location_pin.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/ic_lock.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/ic_placeholder.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/ic_send_black_24dp.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/messege_item_border.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/rec_shap.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/ripple_effect_raised.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/round_click.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/round_color.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/round_colour1.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/shape_incoming_message.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/toggle_widget_background.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/toggle_widget_background_premium.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/drawable/white_outline_toggle_homescreen.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/activity_auth.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/activity_choose_video_cat.xml" value="0.5" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/activity_contact.xml" value="0.18" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/activity_dashboard.xml" value="0.33" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/activity_invite_friends.xml" value="0.25" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/activity_live_chat_room_l_ist.xml" value="0.22" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/activity_main.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/activity_map.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/activity_map2.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/activity_mpa_route.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/activity_open_setting.xml" value="0.2" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/activity_play_vieo.xml" value="0.12" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/activity_premium_video.xml" value="0.18" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/activity_priumum_video_player.xml" value="0.22" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/activity_razorpay.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/activity_splash.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/chat_sender.xml" value="0.18" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/chat_video_adapter.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/contacts_list_item.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/fra.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/fragment_contact_list.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/fragment_dash_board.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/fragment_invite_all_contact.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/fragment_invite_online.xml" value="0.2" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/fragment_login.xml" value="0.2" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/fragment_online_conatct.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/fragment_otp.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/fragment_reg.xml" value="0.22" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/fragment_search.xml" value="0.22" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/fragment_video.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/fragment_you_t_ube_fragment.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/inive_online.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/item.xml" value="0.25" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/item_option.xml" value="1.0" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/item_recycler_header.xml" value="0.5" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/item_recycler_list.xml" value="0.75" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/layout.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/online_invte.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/rating_bar.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/setting_layout.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/social_conatct.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/user_list.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/layout/video_adapter.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/menu/action_bar.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.4.3code/scooby/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.6.2code/scooby/app/src/main/res/drawable/messege_item_border.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.6.2code/scooby/app/src/main/res/drawable/messege_item_border1.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.6.2code/scooby/app/src/main/res/drawable/setting_tab_background.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.6.2code/scooby/app/src/main/res/layout/activity_contact.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.6.2code/scooby/app/src/main/res/layout/activity_invite_friends.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.6.2code/scooby/app/src/main/res/layout/activity_live_chat_room_l_ist.xml" value="0.18" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.6.2code/scooby/app/src/main/res/layout/activity_main.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.6.2code/scooby/app/src/main/res/layout/activity_main1.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.6.2code/scooby/app/src/main/res/layout/activity_open_setting.xml" value="0.25" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.6.2code/scooby/app/src/main/res/layout/activity_play_vieo.xml" value="0.25" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.6.2code/scooby/app/src/main/res/layout/activity_preumum_video_player.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.6.2code/scooby/app/src/main/res/layout/activity_priumum_video_player.xml" value="0.12" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.6.2code/scooby/app/src/main/res/layout/file_paths.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.6.2code/scooby/app/src/main/res/layout/fragment_contact_list.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.6.2code/scooby/app/src/main/res/layout/fragment_login.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.6.2code/scooby/app/src/main/res/layout/fragment_online_conatct.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.6.2code/scooby/app/src/main/res/layout/item_option.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.6.2code/scooby/app/src/main/res/layout/layout_toolbar_profile.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.6.2code/scooby/app/src/main/res/layout/profile_change.xml" value="0.22" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.6.2code/scooby/app/src/main/res/layout/profile_pic_crop.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.6.2code/scooby/app/src/main/res/layout/setting_layout.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/jazzy/Downloads/Scooby12Aug/scooby1.6.2code/scooby/app/src/main/res/layout/video_adapter.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

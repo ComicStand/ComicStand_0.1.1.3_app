@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="green">#00a86b</color>
+    <color name="dark_green">#064E34</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000</color>
+    <color name="dark_gray">#717171</color>
+    <color name="gray">#eeeeee</color>
+    <color name="appbar">#982B43</color>
+    <color name="skublue">#2196F3</color>
+    <color name="semiTransparentColor">#20ffffff</color>
+    <color name="darkpurple">#4F3A5C</color>
+    <color name="pinkpurple">#7D496B</color>
+    <color name="red">#ff0000</color>
+    <color name="whiteTransparent">#00ffffff</color>
+    <color name="light_blue_400">#FF29B6F6</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="gray_400">#FFBDBDBD</color>
+    <color name="gray_600">#FF757575</color>
+
+</resources>
